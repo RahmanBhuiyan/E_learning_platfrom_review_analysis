@@ -51,5 +51,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 For any inquiries or questions, please contact [Abdullah Al Rahman](mailto:bhuiyanrahman2002@gmail.com).
 
----
-Feel free to customize this README file according to the specific details of your project. Provide clear instructions for installation, usage, and contribution, and include any necessary credits or acknowledgments.
