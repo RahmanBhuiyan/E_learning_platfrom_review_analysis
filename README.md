@@ -27,6 +27,7 @@ This project aims to improve the user interface and user experience (UI/UX) of a
 ## Demo
 
 ![Demo 1](demo/s1.png)
+
 Question 1: Level of education?
 
 The graph shows that not all participants come from a similar instructional stage. For that reason, the study questions are divided into three components based on which levels they may be attending. 
@@ -34,22 +35,26 @@ The graph shows that not all participants come from a similar instructional stag
 The relevant info in Body 4.1 shows the typical spending time pupils are on the internet studying programs. the pub pie chart in Physique shows the velocity of focus on students from 1033 followers. Around 91.6% of surveyed people were highly curious to work with various the educational system for their purpose
 
 ![Demo 2](demo/s2.png)
+
 Question 2: How much time do you typically spend on the platform?
 
 Overall, 212 students invest more than 4 hours in online studies at the learning platform from 3 hours invested in online education the rate follows 17.5%, and 1.5% invest 5 hours in the online learning platform
 
 ![Demo 3](demo/s3.png)
+
 Question 3: Your level of satisfaction with online education?
 
 
 The following questions were focused on 1033 students in the e-learning platform. Question 3 shows the strengths of the current e-learning platform. The statistic illustrates that Onley the e-learning platform is fulfilled. Most of the answer mentions that e-learning is Onley's remarkable factor.
 
 ![Demo 4](demo/s4.png)
+
 Question 5: What Features are important on the learning platform?
 
 The bar chart shows the number of important features in the online learning platform from 1033 students. Most surveyed students consider that simple and easy-to-use interfaces are necessary. It is clear from the chart that a good interface plays a key role in the student experience.
 
 ![Demo 4](demo/s5.png)
+
 Question 6: what frustrates students when using online study and seeking information?
 
 According to the survey result, the most struggling issue of the learning platform is usability (4:6), which is complicated and takes time to be used to with. In terms of visual and information architecture design, the dissatisfaction levels correspond to the value.
